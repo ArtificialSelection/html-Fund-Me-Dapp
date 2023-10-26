@@ -1,0 +1,1 @@
+This is minimalistic website to connect frontend with backend
